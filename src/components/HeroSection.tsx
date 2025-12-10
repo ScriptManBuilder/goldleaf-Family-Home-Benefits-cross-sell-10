@@ -32,7 +32,7 @@ const HeroSection: React.FC = () => {
         <Tagline>Premium Home & Family Protection</Tagline>
         <HeroTitle>
           Safeguard What Matters Most.
-          <Highlight>Exceptional Value. Total Peace of Mind.</Highlight>
+          <Highlight>Exceptional Value. Peace of Mind.</Highlight>
         </HeroTitle>
         <HeroDescription>
           Experience comprehensive protection with premium benefits designed for modern families. 
